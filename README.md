@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/placeholder.png](https://i.pinimg.com/originals/a4/d9/67/a4d96725b69443f310f0d089dccdd444.jpg)" width="120" />
+  <img src="https://i.pinimg.com/originals/a4/d9/67/a4d96725b69443f310f0d089dccdd444.jpg" width="120" />
 </p>
 
 <h1 align="center">Iroha</h1>
